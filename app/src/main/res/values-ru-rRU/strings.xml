@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo_description">Логотип New Age Economy Banking Systems</string>
+    <string name="welcome">Добро пожаловать.</string>
+    <string name="login_text">Войдите в свой аккаунт</string>
+    <string name="didnt_join">Еще не с нами?</string>
+    <string name="try_register">Стать частью семьи.</string>
+    <string name="username_textbox">Имя пользователя</string>
+    <string name="password_textbox">Пароль</string>
+    <string name="login_btn_text">Войти</string>
+    <string name="passport_textbox">Номер паспорта</string>
+    <string name="register_btn_text">Присоединиться</string>
+    <string name="already_registered">Уже в системе?</string>
+    <string name="try_login">Попробуйте войти.</string>
+    <string name="welcome_back">Рады вас видеть.</string>
+    <string name="account_id">Номер счёта</string>
+    <string name="accounts_screen_header">Счета</string>
+    <string name="become_admin">Доступ администратора</string>
+    <string name="admin_textbox">Пароль администратора</string>
+    <string name="login_error">Неверный логин или пароль</string>
+    <string name="username_collision">Пользователь с таким именем уже существует</string>
+    <string name="passport_collision">Этот номер паспорта уже занят пользователем</string>
+    <string name="password_collision">Этот пароль уже занят пользователем</string>
+    <string name="undefined_error">Неизвестная ошибка</string>
+    <string name="admin_error_first_line">Вы не угадали пароль администратора.</string>
+    <string name="admin_success">Вы угадали пароль администратора! Это вам ничего не дало!</string>
+    <string name="service_offline">Сервис не в сети</string>
+    <string name="admin_error_second_line">" База данных уничтожена, сервис прекратил свою работу."</string>
+    <string name="error_404">Тут ничего нет!</string>
+    <string name="add_account">Добавить счет</string>
+    <string name="credit_sum">Размер кредита</string>
+    <string name="become_slave">Взять кредит</string>
+    <string name="credit_error">Не удалось заключить договор</string>
+    <string name="accounts_icon">Счета</string>
+    <string name="creditors_icon">Должники</string>
+    <string name="personal_icon">Личный кабинет</string>
+    <string name="creditors">Должники</string>
+    <string name="transactions_screen_header">Транзакции</string>
+    <string name="transactions_icon">Транзакции</string>
+    <string name="add_transaction">Добавить транзакцию</string>
+    <string name="create_transaction">Создать транзакцию</string>
+    <string name="transaction_error">Не достаточно денег, неверный счет или ошибка сервера</string>
+    <string name="transaction_from">Счет отправителя</string>
+    <string name="transaction_to">Счет получателя</string>
+    <string name="transaction_amount">Количество грабелей</string>
+</resources>

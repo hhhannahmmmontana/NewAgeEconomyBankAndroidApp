@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">New Age Economy Bank</string>
+    <string name="logo_description">New Age Economy Banking Systems Logo</string>
+    <string name="welcome">Welcome.</string>
+    <string name="login_text">Login to your account</string>
+    <string name="didnt_join">Didn\'t join us yet?</string>
+    <string name="try_register">Become the part of the family.</string>
+    <string name="username_textbox">Username</string>
+    <string name="password_textbox">Password</string>
+    <string name="login_btn_text">Login</string>
+    <string name="passport_textbox">Passport number</string>
+    <string name="register_btn_text">Join</string>
+    <string name="already_registered">Already joined us?</string>
+    <string name="try_login">Try login.</string>
+    <string name="welcome_back">Welcome back.</string>
+    <string name="account_id">Account ID</string>
+    <string name="accounts_screen_header">Accounts</string>
+    <string name="grb" translatable="false">GRB</string>
+    <string name="become_admin">Admin access</string>
+    <string name="admin_textbox">Admin password</string>
+    <string name="login_error">Incorrect login or password</string>
+    <string name="username_collision">This username already exists</string>
+    <string name="passport_collision">This pasport number already belongs to user</string>
+    <string name="password_collision">This password already belongs to user</string>
+    <string name="undefined_error">Undefined error accured</string>
+    <string name="admin_error_first_line">You didn\'t guessed the admin password.</string>
+    <string name="admin_success">You guessed the admin password and achived nothing!</string>
+    <string name="service_offline">Service offline</string>
+    <string name="admin_error_second_line">Databased dropped, service stopped working.</string>
+    <string name="error_404">Nothing\'s here!</string>
+    <string name="add_account">Add account</string>
+    <string name="credit_sum">Loan amount</string>
+    <string name="become_slave">Take out a loan</string>
+    <string name="credit_error">Credit error</string>
+    <string name="accounts_icon">Accounts</string>
+    <string name="creditors_icon">Loaners</string>
+    <string name="personal_icon">Personal</string>
+    <string name="creditors">Loaners</string>
+    <string name="transactions_screen_header">Transactions</string>
+    <string name="transactions_icon">Transactions</string>
+    <string name="add_transaction">Add transaction</string>
+    <string name="create_transaction">Create transaction</string>
+    <string name="transaction_error">Not enough money or server error</string>
+    <string name="transaction_from">Sender account</string>
+    <string name="transaction_to">Reciever account</string>
+    <string name="transaction_amount">Grables amount</string>
+</resources>
